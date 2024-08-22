@@ -1,7 +1,7 @@
 {
   "name": "wasi-md-v2",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
+  "logo": "https://telegra.ph/file/686c32cc8f63d0a033863.png?raw=true",
   "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
   "success_url": "/",
   "stack": "container",
