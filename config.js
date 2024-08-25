@@ -48,7 +48,7 @@ global.scan = "https://pair-qr-wasi-md.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "QUEENELISA;;;==QSDRVeWdHT0VGcx1SZJh1djJDU3hmYi9GMadkZlFkULh2YJR2aoNzTOlkbjQ0QMpmbVlFbpwd=90651510749"
+  "XccRlCra#Ny24UL0NaqLbw6pDj0GBS90L999JOJqjxWxqM0eNyWY"
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
